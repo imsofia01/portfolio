@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    color: white;
+    width: 800px;
+    height: 474px;
+}
+
+.content1{
+    width: 417px; 
+    height: 73px; 
+    left: 66px; 
+    top: 164px; 
+    position: absolute; 
+    color: white; 
+    font-size: 58px; 
+    font-family: Dela Gothic One; 
+    font-weight: bolder; 
+    word-wrap: break-word
+}
+
+.content2{
+    width: 471.01px; 
+    height: 0px; 
+    left: 66px; 
+    top: 248.99px; 
+    position: absolute; 
+    border: 4px rgb(255, 255, 255) solid;
+}
+
+.content3{
+    width: 492px; 
+    height: 40px; 
+    left: 66px; 
+    top: 269px; 
+    position: absolute; 
+    color: white; 
+    font-size: 48px; 
+    font-family: Dela Gothic One; 
+    font-weight: 400; word-wrap: break-word
+}
