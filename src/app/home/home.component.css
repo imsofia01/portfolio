@@ -5,36 +5,64 @@ body{
     height: 474px;
 }
 
+
+
 .content1{
     width: 417px; 
     height: 73px; 
-    left: 66px; 
-    top: 164px; 
+    left: 150px; 
+    top: 194px; 
     position: absolute; 
     color: white; 
-    font-size: 58px; 
+    font-size: 98px; 
     font-family: Dela Gothic One; 
     font-weight: bolder; 
-    word-wrap: break-word
+  
 }
 
 .content2{
-    width: 471.01px; 
+    width: 771.01px; 
     height: 0px; 
-    left: 66px; 
-    top: 248.99px; 
+    left: 150px; 
+    top: 319.99px; 
     position: absolute; 
     border: 4px rgb(255, 255, 255) solid;
 }
 
 .content3{
-    width: 492px; 
-    height: 40px; 
-    left: 66px; 
-    top: 269px; 
+    width: 892px; 
+    height: 90px; 
+    left: 150px; 
+    top: 359px; 
     position: absolute; 
     color: white; 
-    font-size: 48px; 
+    font-size: 51px; 
     font-family: Dela Gothic One; 
-    font-weight: 400; word-wrap: break-word
+    font-weight: bold; 
+}
+
+.content4{
+    width: 139px; 
+    height: 65px; 
+    left: 986px; 
+    top: 218px; 
+    color: black;
+    align-items: center;
+    position: absolute; 
+    background: #D7D020; 
+    border-radius: 7px
+}
+
+.content5{
+    width: 108px; 
+    height: 43px; 
+    left: 999px; 
+    top: 224px; 
+    position: absolute; 
+    text-align: center; 
+    color: black; 
+    font-size: 14px; 
+    font-family: Dela Gothic One; 
+    font-weight: 400; 
+    word-wrap: break-word;
 }
